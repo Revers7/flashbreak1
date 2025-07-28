@@ -1,6 +1,6 @@
 +++
 date = '2025-07-28T10:03:08+02:00'
-draft = false
+draft = true
 title = 'como_-_ajax.md'
 +++
 
